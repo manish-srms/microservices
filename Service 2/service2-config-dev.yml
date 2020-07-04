@@ -1,0 +1,5 @@
+service:
+  greeting: Greetings From Servive 2 - DEV
+
+additional:
+  greeting: Additional Greetings From Servive 2 - DEV

@@ -1,0 +1,5 @@
+service:
+  greeting: Greetings From Servive 1 - PTA
+
+additional:
+  greeting: Additional Greetings From Servive 1 - PTA
