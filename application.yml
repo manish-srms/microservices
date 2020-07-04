@@ -3,3 +3,8 @@ service:
 
 additional:
   greeting: Additional Greetings From - Global Default  
+  
+without:
+  server:
+    restart: Property Added Without Server Restarted
+       
