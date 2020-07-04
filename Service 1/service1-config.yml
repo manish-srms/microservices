@@ -1,5 +1,5 @@
 service:
-  greeting: Greetings From Servive 1 - DEFAULT
+  greeting: Greetings From Servive 1 - TEST BRANCH - DEFAULT
 
 additional:
-  greeting: Additional Greetings From Servive 1 - DEFAULT
+  greeting: Additional Greetings From Servive 1 - TEST BRANCH - DEFAULT
