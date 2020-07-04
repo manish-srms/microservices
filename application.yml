@@ -1,0 +1,5 @@
+service:
+  greeting: Greetings From - Global Default 
+
+additional:
+  greeting: Additional Greetings From - Global Default  
